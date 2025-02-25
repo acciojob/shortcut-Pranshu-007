@@ -1,5 +1,8 @@
 function shortcut(s1, s2) {
-  // your code here
+	let short=s1[0]+s2[0];
+	
+	
+	return short;
 }
 
 // Do not change the code below.
